@@ -1,1 +1,1 @@
-# Beta-_factor
+# Beta_factor
